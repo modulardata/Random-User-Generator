@@ -1,0 +1,139 @@
+hyperskill_project:
+  id: 372
+  ide_files: https://cogniterra.org/media/attachments/lesson/30112/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: "Thu, 01 Jan 1970 00:00:00 UTC"
+stages:
+  - id: 2210
+    step: 31518
+    is_completed: true
+  - id: 2211
+    step: 31519
+    is_completed: true
+  - id: 2212
+    step: 31520
+    is_completed: true
+  - id: 2213
+    step: 31521
+    is_completed: true
+  - id: 2214
+    step: 31522
+    is_completed: true
+topics:
+  0:
+    - title: Comments
+      theory_id: 8170
+    - title: Block-level elements
+      theory_id: 7271
+    - title: Inline elements
+      theory_id: 7518
+    - title: What is CSS
+      theory_id: 7678
+    - title: HTML attributes id and class
+      theory_id: 7527
+    - title: Connecting CSS to HTML
+      theory_id: 7418
+    - title: Basic syntax
+      theory_id: 7722
+    - title: CSS Selectors
+      theory_id: 7738
+    - title: Fetch API
+      theory_id: 27402
+    - title: DOM
+      theory_id: 8635
+    - title: JavaScript Code Style
+      theory_id: 9916
+    - title: Connecting JavaScript to HTML
+      theory_id: 7510
+    - title: XMLHttpRequest
+      theory_id: 23100
+    - title: XMLSerializer & DOMParser
+      theory_id: 23111
+    - title: Object JSON
+      theory_id: 24027
+    - title: Introduction to JavaScript
+      theory_id: 8016
+    - title: Writing first program
+      theory_id: 8154
+    - title: Multi-line programs
+      theory_id: 8162
+    - title: Declaring variables
+      theory_id: 8186
+    - title: HTML basics
+      theory_id: 6434
+    - title: Tags and Attributes
+      theory_id: 7536
+    - title: HTML page structure
+      theory_id: 6491
+    - title: Strings and numbers
+      theory_id: 8194
+    - title: Arithmetic operators
+      theory_id: 8372
+    - title: Functions
+      theory_id: 8388
+    - title: Comments
+      theory_id: 7502
+    - title: Defining functions
+      theory_id: 24012
+    - title: Anonymous function
+      theory_id: 26924
+    - title: Arrow Functions
+      theory_id: 8455
+    - title: JSON
+      theory_id: 6854
+    - title: Introduction to Objects
+      theory_id: 8588
+    - title: Null and Undefined
+      theory_id: 8564
+    - title: XML
+      theory_id: 6901
+    - title: Boolean and Logical Operators
+      theory_id: 8471
+    - title: Type Conversion
+      theory_id: 8380
+    - title: Comparison Operators
+      theory_id: 8580
+    - title: Conditional Operators
+      theory_id: 8889
+    - title: Introduction to Promises
+      theory_id: 9980
+    - title: "\"then\", \"catch\" and \"finally\" methods"
+      theory_id: 9989
+    - title: Async/await
+      theory_id: 27928
+    - title: Intro to DOM events
+      theory_id: 10857
+    - title: DOM methods
+      theory_id: 8662
+    - title: The "addEventListener" method
+      theory_id: 8723
+    - title: Introduction to String
+      theory_id: 17747
+  1:
+    - title: Naming variables
+      theory_id: 8364
+    - title: Modifying DOM
+      theory_id: 21549
+    - title: Advanced DOM methods
+      theory_id: 21560
+    - title: Date
+      theory_id: 23067
+    - title: String transforming
+      theory_id: 17779
+  2:
+    - title: Scope of variables
+      theory_id: 9771
+  3:
+    - title: Array
+      theory_id: 16141
+    - title: Array creation
+      theory_id: 16356
+    - title: Array iterating
+      theory_id: 18287
+    - title: Window Object
+      theory_id: 9382
+    - title: Local Storage
+      theory_id: 26914
+    - title: Intro to Lists
+      theory_id: 8178
